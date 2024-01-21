@@ -1,0 +1,10 @@
+01|Nguyen Van A|Fall|Java
+02|Nguyen Van B|Spring|Java
+03|Nguyen Van C|Fall|.NET
+04|Nguyen Van D|Summer|C/C++
+05|Nguyen Nam Phong|Spring|.NET
+06|Tran Van Hoang Phuc|Spring|Java
+07|Nguyen Tuan Khai|Spring|C/C++
+08| Pham Duy Khanh|Summer|.NET
+09|Le Doan Hoai Nguyen|Spring|Java
+10|Nguyen Van E|Fall|.NET
